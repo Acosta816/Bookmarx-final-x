@@ -1,0 +1,9 @@
+.BookMarxMain {
+  border: solid 3px rgb(74, 152, 224);
+  background-color: rgb(115, 227, 255);
+  margin: 5px;
+}
+
+.title {
+  text-align: center;
+}
